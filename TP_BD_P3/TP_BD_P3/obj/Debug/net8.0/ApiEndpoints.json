@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "TP_BD_P3.Controllers.ReportController",
+    "Method": "GetReporteConsumoKiosco",
+    "RelativePath": "api/Report/consumo-kiosco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "TP_BD_P3.DTOs.ReporteConsumoKioscoSummaryDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
+    "ContainingType": "TP_BD_P3.Controllers.ReportController",
+    "Method": "GetRecaudacionPorPelicula",
+    "RelativePath": "api/Report/recaudacion-peliculas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TP_BD_P3.DTOs.RecaudacionPeliculaDTO, TP_BD_P3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
+    "ContainingType": "TP_BD_P3.Controllers.ReportController",
+    "Method": "GetTopGeneroPorTipoCliente",
+    "RelativePath": "api/Report/top-genero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TP_BD_P3.DTOs.TopGeneroDTO, TP_BD_P3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TP_BD_P3.Controllers.ReportController",
+    "Method": "GetTopProductosKiosco",
+    "RelativePath": "api/Report/top-productos-kiosco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TP_BD_P3.DTOs.ProductoKioscoDTO, TP_BD_P3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  }
+]

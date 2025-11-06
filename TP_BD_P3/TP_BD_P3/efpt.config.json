@@ -1,0 +1,262 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "TP_BD_P2Context",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.1186",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\/Scaffolded",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TP_BD_P3",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[barrios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[butacas_reservadas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[calles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[cantidad_butacas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clasificaciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[combos_kiosco]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[comprobante]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[descuento_clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalle_combos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalle_kiosco]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalle_subtitulos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalle_tickets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_generos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_idiomas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detalles_salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[direcciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[empleados]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[estado_butacas_reservadas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[estado_reservas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[estado_salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[fechas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formas_compra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formas_pago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[formatos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[funciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[generos_peliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[horarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[idiomas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[paises]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[peliculas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[precios_combos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[precios_productos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[precios_salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[productos_kiosco]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promociones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promos_fechas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[promos_horarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[puestos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[reservas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[salas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sexos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[subtitulos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tickets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tipos_clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[vista_recaudacion]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vw_GastoPorGeneroDuracion]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vw_TopCombos]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[vw_TopProductosIndividuales]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[sp_ReporteConsumoKiosco]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[sp_TopGeneroPorTipoCliente]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_RecaudacionPorPelicula]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_TopProductosKioscoPorGenero_AnioActual]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
