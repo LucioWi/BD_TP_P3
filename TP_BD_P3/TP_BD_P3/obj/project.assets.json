@@ -4453,23 +4453,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\agust\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\TP_BD_P3.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\TP_BD_P3.csproj",
       "projectName": "TP_BD_P3",
-      "projectPath": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\TP_BD_P3.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\obj\\",
+      "projectPath": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\TP_BD_P3.csproj",
+      "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

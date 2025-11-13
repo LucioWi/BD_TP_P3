@@ -1,0 +1,48 @@
+.datos-main-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+
+    .lead{
+        font-size: 1rem;
+        margin-top: 0.5rem;
+        color: var(--gris-claro);
+    }   
+}
+
+.datos-title{
+    width: 100%;
+    .btn-datos{
+        margin-top: 1rem;
+        background-color: var(--blanco-ppal);
+        color: black;
+    }
+    
+    .btn-datos:hover{
+        background-color: var(--blanco-ppal);
+        color: var(--rojo-principal);
+    }
+    
+    .btn-datos:active{
+        background-color: var(--gris-medio);
+        color: var(--rojo-oscuro);
+        transition: all 0.5s ease-in-out;
+    }
+}
+
+.datos-container{
+    background-color: var(--blanco-ppal);
+    color: black;
+}
+
+/* utility: hide elements when the 'hidden' class is present */
+.hidden { display: none !important; }
+
+.kpi-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

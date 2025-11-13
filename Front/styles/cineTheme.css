@@ -1,0 +1,228 @@
+/* ==========================================================
+   CINE UI — Tema Rojo Oscuro (minimalista, sin animaciones)
+   ========================================================== */
+
+/* Fuente: moderna, legible y neutra */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+:root {
+    /* ===== PALETA PRINCIPAL ===== */
+    --rojo-principal: #b71c1c; /* rojo cine profundo */
+    --rojo-oscuro: #8b0000; /* acento más oscuro */
+    --blanco-ppal: #fff5eb; /* fondo principal */
+    --gris-oscuro: #1a1a1a;
+    --gris-medio: #2c2c2c; /* fondos de tarjetas / inputs */
+    --gris-claro: #e0e0e0; /* texto claro / bordes suaves */
+}
+
+/* ===== BASE ===== */
+body {
+    background-color: var(--blanco-ppal);
+    color: var(--gris-claro);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+a {
+    color: var(--rojo-principal);
+    text-decoration: none;
+    cursor: pointer;
+}
+a.navbar-brand {
+    background-color: var(--rojo-oscuro);
+    border-radius: 6px;
+    padding: 10px;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.main-container {
+    min-height: 100vh;
+}
+
+.container-narrow{
+    max-width: 1400px;
+}
+
+
+
+/* ===== NAVBAR ===== */
+
+
+.navbar {
+    background-color: var(--rojo-principal);
+    box-shadow: 0 6px 9px 6px rgba(0, 0, 0, 0.1);
+}
+.nav-item{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar .navbar-brand {
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    background-color: var(--rojo-oscuro);
+    border-radius: 6px;
+}
+
+.navbar .nav-link.active {
+    background-color: var(--rojo-oscuro);
+    color: var(--blanco-ppal);
+    
+    border-radius: 6px;
+}
+
+/* CAROUSEL */
+
+.carousel {
+    margin-bottom: 2rem;
+}
+
+/* Fijar altura de los items para que todas las imágenes tengan la misma altura */
+.carousel-item {
+    height: 400px; /* ajustar según lo necesites */
+    background-color: var(--gris-medio);
+    
+    overflow: hidden;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* rellena/corta la imagen manteniendo la altura fija */
+    object-position: center;
+}
+
+/* Altura menor en pantallas pequeñas */
+@media (max-width: 768px) {
+    .carousel-item {
+        height: 220px;
+    }
+}
+
+/* ===== TARJETAS ===== */
+.card {
+    background-color: var(--gris-medio);
+    border: 1px solid var(--rojo-oscuro);
+    border-radius: 10px;
+    padding: 1.5rem;
+    color: var(--gris-claro);
+}
+
+.card-body {
+    p, strong, span{
+        color:#1a1a1a;
+        margin: 10px 0;
+    }
+}
+
+/* ===== FORMULARIOS ===== */
+.form-control {
+    background-color: var(--blanco-ppal);
+    color: var(--gris-claro);
+    border: 1px solid var(--rojo-oscuro);
+    border-radius: 8px;
+}
+.form-control:focus {
+    outline: none;
+}
+
+/* ===== BOTONES ===== */
+.btn {
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: var(--rojo-principal);
+    color: #fff;
+}
+.btn-primary:hover {
+    background-color: var(--rojo-oscuro);
+}
+.btn-primary:active {
+    background-color: #5a0000;
+}
+
+.btn-outline-primary {
+    border: 2px solid var(--rojo-principal);
+    color: var(--rojo-principal);
+    background: transparent;
+}
+.btn-outline-primary:hover {
+    background-color: var(--rojo-principal);
+    color: #fff;
+}
+.btn-outline-primary:active {
+    background-color: var(--rojo-oscuro);
+    border-color: var(--rojo-oscuro);
+}
+
+/* ===== ALERTAS ===== */
+.alert {
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    margin-top: 1rem;
+}
+.alert-success {
+    background-color: #2e7d32;
+    color: #fff;
+}
+.alert-danger {
+    background-color: var(--rojo-oscuro);
+    color: #fff;
+}
+
+/* ===== FOOTER ===== */
+.site-footer {
+    background-color: var(--gris-medio);
+    border-top: 1px solid var(--rojo-principal);
+    color: var(--gris-claro);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* ===== HERO / TITULOS ===== */
+.cinema-hero {
+    background-color: var(--rojo-principal);
+    color: #fff;
+    border-radius: 10px;
+    padding: 2.5rem 1rem;
+    text-align: center;
+}
+.cinema-hero__title {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.cinema-hero__subtitle {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #f1f1f1;
+}
+
+/* ===== UTILIDADES ===== */
+.text-muted-2 {
+    color: #bbbbbb;
+}
+.rounded {
+    border-radius: 10px;
+}
+
+.card-hover{
+    a:focus{
+        color: var(--blanco-ppal);
+    }
+}

@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\",
+  "WorkspaceRootPath": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\dtos\\topgenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\topgenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\dtos\\reporteconsumokioscosummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\reporteconsumokioscosummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\dtos\\recaudacionpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\recaudacionpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\dtos\\productokioscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\productokioscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|d:\\users\\usuario\\desktop\\pii-tpi-grupo-12\\backend\\tp_bd_p3\\tp_bd_p3\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\dtos\\topgenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\topgenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\dtos\\reporteconsumokioscosummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\reporteconsumokioscosummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\dtos\\recaudacionpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\recaudacionpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\dtos\\productokioscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\dtos\\productokioscodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|c:\\users\\agust\\onedrive\\desktop\\tpi-bd\\bd_tp_p3\\tp_bd_p3\\tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB95E01-3546-4C83-AB48-98B2F94C4765}|TP_BD_P3\\TP_BD_P3.csproj|solutionrelative:tp_bd_p3\\models\\scaffolded\\tp_bd_p2context.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,147 +54,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "IReportRepository.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Repositories\\IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Repositories\\IReportRepository.cs",
               "RelativeDocumentMoniker": "TP_BD_P3\\Repositories\\IReportRepository.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Repositories\\IReportRepository.cs",
               "RelativeToolTip": "TP_BD_P3\\Repositories\\IReportRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:59:56.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecaudacionPeliculaDTO.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
-              "RelativeToolTip": "TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:58:13.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoKioscoDTO.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
-              "RelativeToolTip": "TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:57:48.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReporteConsumoKioscoSummaryDTO.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
-              "RelativeToolTip": "TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:57:23.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TopGeneroDTO.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
-              "RelativeToolTip": "TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:56:58.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TP_BD_P2Context.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
-              "RelativeToolTip": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T15:50:48.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Program.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\Program.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Program.cs",
-              "RelativeToolTip": "TP_BD_P3\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T16:02:33.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReportRepository.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Repositories\\ReportRepository.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\Repositories\\ReportRepository.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Repositories\\ReportRepository.cs",
-              "RelativeToolTip": "TP_BD_P3\\Repositories\\ReportRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T16:00:26.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\appsettings.json",
-              "RelativeDocumentMoniker": "TP_BD_P3\\appsettings.json",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\appsettings.json",
-              "RelativeToolTip": "TP_BD_P3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T16:19:21.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T15:59:56.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TP_BD_P2Context.Extensions.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
-              "RelativeDocumentMoniker": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
-              "RelativeToolTip": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Title": "RecaudacionPeliculaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
+              "RelativeToolTip": "TP_BD_P3\\DTOs\\RecaudacionPeliculaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T16:14:39.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T15:58:13.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ProductoKioscoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
+              "RelativeToolTip": "TP_BD_P3\\DTOs\\ProductoKioscoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:57:48.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReporteConsumoKioscoSummaryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
+              "RelativeToolTip": "TP_BD_P3\\DTOs\\ReporteConsumoKioscoSummaryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:57:23.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopGeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
+              "RelativeToolTip": "TP_BD_P3\\DTOs\\TopGeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:56:58.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TP_BD_P2Context.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
+              "RelativeToolTip": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:50:48.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Program.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\Program.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Program.cs",
+              "RelativeToolTip": "TP_BD_P3\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:02:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "TP_BD_P3\\Repositories\\ReportRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:00:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\appsettings.json",
+              "RelativeDocumentMoniker": "TP_BD_P3\\appsettings.json",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\appsettings.json",
+              "RelativeToolTip": "TP_BD_P3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T16:19:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TP_BD_P2Context.Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
+              "RelativeDocumentMoniker": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
+              "RelativeToolTip": "TP_BD_P3\\Models\\Scaffolded\\TP_BD_P2Context.Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:14:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ReportController.cs",
-              "DocumentMoniker": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Controllers\\ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "TP_BD_P3\\Controllers\\ReportController.cs",
-              "ToolTip": "D:\\Users\\Usuario\\Desktop\\pii-tpi-grupo-12\\Backend\\TP_BD_P3\\TP_BD_P3\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\agust\\OneDrive\\Desktop\\TPI-BD\\BD_TP_P3\\TP_BD_P3\\TP_BD_P3\\Controllers\\ReportController.cs",
               "RelativeToolTip": "TP_BD_P3\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwEEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T16:04:04.389Z",
               "EditorCaption": ""

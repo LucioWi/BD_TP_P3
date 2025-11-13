@@ -1,0 +1,90 @@
+<div class="cinema-hero movies">
+    <div class="movies-title">
+        <a href="#" onclick="ShowAMBCBack(); return false;">&lt; Atrás</a>
+        <h1>Peliculas</h1>
+    </div>
+    <div class="movies-nav">
+        <nav class="nav-section">
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button
+                        class="nav-link btn-progra"
+                        id="intro-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#intro"
+                        type="button"
+                        role="tab"
+                        aria-controls="intro"
+                        aria-selected="true"
+                        onclick="changueSubTab('./routes/progra/support/AMBC/getMovies.html', '.movies-content-container'); fetchMovies();"
+                    >
+                        Ver Todas
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button
+                        class="nav-link btn-progra"
+                        id="features-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#features"
+                        type="button"
+                        role="tab"
+                        aria-controls="features"
+                        aria-selected="false"
+                        onclick="changueSubTab('./routes/progra/support/AMBC/postMovies.html', '.movies-content-container')"
+                    >
+                        Agregar
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button
+                        class="nav-link btn-progra"
+                        id="features-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#features"
+                        type="button"
+                        role="tab"
+                        aria-controls="features"
+                        aria-selected="false"
+                        onclick="changueSubTab('./routes/progra/support/AMBC/getMoviesId.html', '.movies-content-container')"
+                    >
+                        Buscar
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button
+                        class="nav-link btn-progra"
+                        id="features-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#features"
+                        type="button"
+                        role="tab"
+                        aria-controls="features"
+                        aria-selected="false"
+                        onclick="changueSubTab('./routes/progra/support/AMBC/putMoviesId.html', '.movies-content-container')"
+                    >
+                        Editar
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button
+                        class="nav-link btn-progra"
+                        id="features-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#features"
+                        type="button"
+                        role="tab"
+                        aria-controls="features"
+                        aria-selected="false"
+                        onclick="changueSubTab('./routes/progra/support/AMBC/deleteMoviesId.html', '.movies-content-container')"
+                    >
+                        Eliminar
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="movies-content-container">
+        
+    </div>
+</div>
